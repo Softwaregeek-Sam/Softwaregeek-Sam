@@ -17,6 +17,11 @@
 - 📫 How to reach me **sumitsoftgeek@hotmail.com**
 
 - ⚡ Fun fact **I think I'm much more than what you see.**
+  
+  
+ ### `Social Networks:`
+  <table border="3">
+    <td align="center"><a href="https://github.com/Softwaregeek-Sam"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="Akash's GitHub" width="45"/></a> <br><br> <a href="https://github.com/AkashSingh3031"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black"></a></td>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwaregeek-sam&label=Profile%20views&color=0e75b6&style=flat" alt="softwaregeek-sam" /> </p>
 
