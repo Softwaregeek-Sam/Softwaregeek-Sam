@@ -1,6 +1,14 @@
+<img align="right" src="https://mydesktopwalls.com/wp-content/uploads/2020/05/Hacker-Pc-Wallpaper.jpg">
+
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Softwaregeek-Sam)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Softwaregeek-sam.profileviews-badge)](https://github.com/Softwaregeek-Sam)
+[![GitHub followers](https://img.shields.io/github/followers/Softwaregeek-Sam?style=social&logo=github)](https://github.com/Softwaregeek-Sam)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Softwaregeek-Sam)
 
 
 <h1 align="center">Hello  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm <a href="https://prepverse.github.io"> Sumit Kumar</h1>
+   
 <h3 align="center"># A Software enthusiast. #</h3>
 <h3 align="left">About Me.
 
@@ -51,5 +59,16 @@
    <td align="center"><a href="https://www.hackerrank.com/sam494568" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="45"/></a><br><br><a href="https://www.hackerrank.com/sam494568"><img src="https://img.shields.io/badge/-HackerRank-308D46?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=308D46"></a></td>
    
    <td align="center"><a href="https://www.hackerearth.com/@sumit3329" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="45"/></a><br><br><a href="https://www.hackerearth.com/@sumit3329"><img src="https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458"></a>
+   </table>
    
- 
+ ### :zap: My Tech Toolbox 🧰
+   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
+#### 👨‍💻 Programming languages
+
+  
+
+   
+   
+     
+   
