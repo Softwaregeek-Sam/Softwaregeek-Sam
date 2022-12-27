@@ -29,7 +29,7 @@
          code();
     }
   
-   <img align="right" alt="connect me" width="350" src="https://media.giphy.com/media/JSYdsDmI3ZRZfbOOjU/giphy.gif"> 
+   <img align="right" alt="connect me" width="300" src="https://media.giphy.com/media/JSYdsDmI3ZRZfbOOjU/giphy.gif"> 
    
    
  ### `Social Networks:`
