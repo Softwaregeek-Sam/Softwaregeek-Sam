@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **my gaming skill and lot more.**
 
-- 📫 How to reach me **sumitsoftgeek@hotmail.com**
+- 📫 How to reach me **sumit_softgeek45@outlook.com**
 
 - ⚡ Fun fact **I think I'm much more than what you see.**
 - ⚡ while(i ! die()) {
